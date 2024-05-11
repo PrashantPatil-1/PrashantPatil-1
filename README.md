@@ -3,7 +3,7 @@
   <div class="container">
     <h1 align="center">Hi 👋, I'm Prashant Patil</h1>
     <h2 align="center"><i>A Passionate Fullstack developer</i></h2>
-    <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+    <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
     <ul>
       <li>🌱 I’m currently learning <strong>Angular</strong></li>
       <li>💬 Ask me about <strong>Java J2EE, Javascript, MySql</strong></li>
@@ -12,7 +12,9 @@
     </ul>
     <h2 align="center"><i>Connect with me:</i></h2>
     <p align="center">
-      <a href="https://www.linkedin.com/in/prashant-patil2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+      <a href="https://www.linkedin.com/in/prashant-patil2000" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkdin" alt="LinkedIn" height="30" width="40" /></a>
+      <a href="https://twitter.com/prashantpatil__" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="prashantpatil__" height="30" width="40" /></a>
+      <a href="https://twitter.com/prashantpatil__" target="blank"><img align="center" src="https://skillicons.dev/icons?i=telegram" alt="prashantpatil__" height="30" width="40" /></a>
     </p>
     <h2 align="center"><i>Languages and Tools:</i></h2
 <div class="icon-container">
