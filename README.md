@@ -85,5 +85,21 @@
   <div style="display: inline-block;">
     <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/></a>
   </div>
+   <h2 align="center"><i>Languages and Tools:</i></h2>
+
+<div align="center">
+  <div style="display: inline-block;">
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" /></a>
+  </div>
+  <div style="display: inline-block;">
+    <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/></a>
+  </div>
+  <div style="display: inline-block;">
+    <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/></a>
+  </div>
+  <div style="display: inline-block;">
+    <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="cpp" width="40" height="40"/></a>
+  </div>
+</div>
 </div>
 </p>
