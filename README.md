@@ -12,9 +12,12 @@
     </ul>
     <h2 align="center"><i>Connect with me:</i></h2>
     <p align="center">
+      <div class="icon-container">
       <a href="https://www.linkedin.com/in/prashant-patil2000" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkdin" alt="LinkedIn" height="30" width="40" /></a>
       <a href="https://twitter.com/prashantpatil__" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="prashantpatil__" height="30" width="40" /></a>
       <a href="https://twitter.com/prashantpatil__" target="blank"><img align="center" src="https://skillicons.dev/icons?i=telegram" alt="prashantpatil__" height="30" width="40" /></a>
+  
+</div>
     </p>
     <h2 align="center"><i>Languages and Tools:</i></h2
 <div class="icon-container">
