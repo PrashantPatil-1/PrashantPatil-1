@@ -16,28 +16,37 @@
     </p>
     <h2 align="center"><i>Languages and Tools:</i></h2
     <div class="icon-container">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
-      <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=spring" alt="Spring"/></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c" alt="C"/></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp" alt="C++"/></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs" alt="C#"/></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate"/></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET"/></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" alt="HTML"/></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"/></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jquery" alt="jQuery"/></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse"/></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA"/></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman" alt="Postman"/></a>
-    </div>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring" alt="Spring"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c" alt="C"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp" alt="C++"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs" alt="C#"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET"/></a>
+</div>
+
+<div class="icon-container">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" alt="HTML"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jquery" alt="jQuery"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>
+</div>
+
+<div class="icon-container">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>
+</div>
+
+<div class="icon-container">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman" alt="Postman"/></a>
+</div>
   </div>
 </body>
 </html>
