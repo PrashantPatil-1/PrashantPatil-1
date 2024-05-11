@@ -1,8 +1,8 @@
 
 <body>
-  <div class="container">
+ <div class="container">
     <h1 align="center">Hi 👋, I'm Prashant Patil</h1>
-    <h2 align="center"><i>A Passionate Fullstack developer</i></h2>
+    <h2 align="center"><i>A Passionate <span id="role">Fullstack Developer</span></i></h2>
     <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
     <ul>
       <li>🌱 I’m currently learning <strong>Angular</strong></li>
@@ -12,14 +12,15 @@
     </ul>
     <h2 align="center"><i>Connect with me:</i></h2>
     <p align="center">
-      <div class="icon-container">
-      <a href="https://www.linkedin.com/in/prashant-patil2000" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" /></a>
-      <a href="https://twitter.com/prashantpatil__" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="prashantpatil__" height="30" width="40" /></a>
-</div>
+      <div class="icon-container align=”center">
+        <a href="https://www.linkedin.com/in/prashant-patil2000" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" /></a>
+        <a href="https://twitter.com/prashantpatil__" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="prashantpatil__" height="30" width="40" /></a>
+        <a href="mailto:patilprashantanil@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Prashant" height="30" width="40" /></a>
+      </div>
     </p>
-    <h2 align="center"><i>Languages and Tools:</i></h2
-<div class="icon-container">
-  <a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
+    <h2 align="center"><i>Languages and Tools:</i></h2>
+    <div class="icon-container">
+      <a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
   <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" alt="Spring"/></a>
   <a href="https://devblogs.microsoft.com/cppblog/"><img src="https://skillicons.dev/icons?i=c" alt="C"/></a>
   <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++"/></a>
@@ -50,6 +51,7 @@
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
   <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" alt="Postman"/></a>
 </div>
+    </div>
   </div>
 </body>
 </html>
