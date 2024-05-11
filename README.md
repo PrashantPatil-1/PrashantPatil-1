@@ -25,7 +25,8 @@
 <p align="center">
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" />
+ <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,bootstrap,c,cs,cpp,git,eclipse,gmail,html,express,java,	intellij
+js" />,
  </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
