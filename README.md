@@ -1,30 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Prashant Patil</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-    }
-    .container {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-    }
-    .icon-container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-    }
-    .icon-container a {
-      margin: 10px;
-    }
-  </style>
-</head>
+
 <body>
   <div class="container">
     <h1 align="center">Hi 👋, I'm Prashant Patil</h1>
