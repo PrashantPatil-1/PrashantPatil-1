@@ -27,9 +27,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" />
  </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a>
 
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a>
 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
