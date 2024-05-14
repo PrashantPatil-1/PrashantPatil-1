@@ -1,6 +1,6 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=60&duration=3000&pause=900&color=F25CD4&random=false&width=700&height=90&lines=Hi%2C+I'm+Prashant!;It's+a+pleasure+to+meet+you!)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=60&duration=3000&pause=900&color=F25CD4&random=false&width=700&height=90&lines=Hi%2C+I'm+Prashant+Patil!;It's+a+pleasure+to+meet+you!)
 <h2 align="center"><i>A Passionate <span id="role">Fullstack Developer</span></i></h2>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
     
    - 🌱 I’m currently learning <strong>Angular</strong>
    
@@ -18,7 +18,7 @@
   <span align="center"> 
 <p align="centre">
   <div>
-  <a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
+  <a href="https://www.oracle.com/java/ ><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
   <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" alt="Spring"/></a>
   <a href="https://devblogs.microsoft.com/cppblog/"><img src="https://skillicons.dev/icons?i=c" alt="C"/></a>
   <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++"/></a>
