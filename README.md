@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prashant Patil</h1>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=60&duration=3000&pause=900&color=F25CD4&random=false&width=700&height=90&lines=Hi%2C+I'm+Prashant!;It's+a+pleasure+to+meet+you!)
 <h2 align="center"><i>A Passionate <span id="role">Fullstack Developer</span></i></h2>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
     
