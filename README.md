@@ -18,19 +18,19 @@
   <span align="center"> 
 <p align="centre">
   <div>
-  <a href="https://www.oracle.com/java"/><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
-  <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="40"/></a>
-  <a href="https://devblogs.microsoft.com/cppblog/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C" width="40"/></a>
+  <a href="https://www.oracle.com/java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40"/></a>
+  <a href="https://spring.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" width="40"/></a>
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C" width="40"/></a>
   <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++"/></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40"/></a>
-  <a href="https://hibernate.org/"><img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" width="40"/></a>
-  <a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="40"/></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40"/></a>
+  <a href="https://hibernate.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" alt="Hibernate" width="40"/></a>
+  <a href="https://dotnet.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" alt=".NET" width="40"/></a>
 </div>
 <div>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40"/></a>
-  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/></a>
+  <a href="https://getbootstrap.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40"/></a>
   <a href="https://nodejs.org/en/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40"/></a>
   <a href="https://jquery.com/"><img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" width="40"/></a>
   <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" alt="React" width="40"/></a>
