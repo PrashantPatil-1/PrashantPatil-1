@@ -37,16 +37,17 @@
 </div>
 
 <div class="icon-container">
-  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40"/></a>
+  <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/></a>
 </div>
-
 <div class="icon-container">
-  <a href="https://www.eclipse.org/"><img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse"/></a>
-  <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA"/></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
-  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" alt="Postman"/></a>
+<a href="https://www.eclipse.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40"/></a>
+  <a href="https://www.jetbrains.com/idea/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"  width="40" /> </a>
+  <a href="https://code.visualstudio.com/">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+           alt="VS Code" width="40" /></a>
+  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40"/></a>
+  <a href="https://www.postman.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="40"/></a>
 </div>
 </p>
 </span>
