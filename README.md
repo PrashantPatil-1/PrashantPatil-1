@@ -1,20 +1,25 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=60&duration=3000&pause=900&color=F25CD4&random=false&width=700&height=90&lines=Hi%2C+I'm+Prashant+Patil!;It's+a+pleasure+to+meet+you!)
+
+ <hr>
 <h2 align="center"><i>A Passionate <span id="role">Fullstack Developer</span></i></h2>
 <img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
     
    - 🌱 I’m currently learning <strong>Angular</strong>
    
    - 💬 Ask me about <strong>Java J2EE, Javascript, MySql</strong>
+   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="" width="30" height="30" /> I’m always learning and improving my skills .
+   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="" width="30" height="30" /> How to reach me <strong>patilprashantanil@gmail.com</strong>
+   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" alt="" width="30" height="30" /> Fun fact <strong>I think I am Interesting</strong>
+     
+   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="" width="30" height="30" /> " I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer."   -Chris Gardner.
+
    
-   - 📫 How to reach me <strong>patilprashantanil@gmail.com</strong>
-   
-   - ⚡ Fun fact <strong>I think I am Interesting</strong>
-   
-<p></p>
-<p></p>
+<p></p><p></p>
 <br></br>
-<br></br> 
+
+
   <h2 align="center"><i>Languages and Tools:</i></h2>
+
   <span align="center"> 
 <p align="centre">
   <div>
@@ -61,4 +66,7 @@
     <a href="https://t.me/Mr_Prashant"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Prashant" /></a>
      <a href="https://www.instagram.com/PrashantPatil._"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Prashant" /></a>
    </p>
+
    
+   
+   ![snake gif](https://github.com/PrashantPatil-1/PrashantPatil-1/blob/output/github-contribution-grid-snake.svg)
